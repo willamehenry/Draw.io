@@ -1,12 +1,12 @@
 # Draw.io
-1° Desafio de criação de um diagrama de uma organização
+1° Desafio: Criação de um diagrama de uma organização
 
 (Esta dentro da pasta Att Diagrama)
 
-2° Desafio de criação de alerta de orçamento de alerta GCP
+2° Desafio: Criação de alerta de orçamento de alerta GCP
 ![google-cloud1](https://user-images.githubusercontent.com/57020653/209823143-b444ab77-a264-48ab-bea9-5a31758c7158.png)
 
-3° Desafio de criação de  Exportação do Billing para BigQuery
+3° Desafio: Exportação do Billing para BigQuery
 
 ![bili1](https://user-images.githubusercontent.com/57020653/209826992-e7b9adda-392c-42b3-b807-4505a397e26d.png)
 
@@ -18,6 +18,11 @@
 
 ![bili5](https://user-images.githubusercontent.com/57020653/209827117-690dd415-7db4-452d-8308-396a345c1b44.png)
 
-4° Desafio de criação de Personalizando Dashboard e Trocando as Preferências de Idioma
+4° Desafio: Personalizando Dashboard e Trocando as Preferências de Idioma
 
 ![Dashboard](https://user-images.githubusercontent.com/57020653/210017514-ab9bac9d-2d39-47c9-8e68-71dd0b98f070.png)
+
+5° Desafio: Utilizando o Cloud Shell
+
+![Hellowcloud](https://user-images.githubusercontent.com/57020653/210019916-4b071d3b-6bfe-4040-91e7-dc01f6c485d5.png)
+
