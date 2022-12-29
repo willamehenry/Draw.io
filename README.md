@@ -17,3 +17,7 @@
 ![bili4](https://user-images.githubusercontent.com/57020653/209827075-d1d4f7c0-37cb-4dd5-b907-1572c8210cf5.png)
 
 ![bili5](https://user-images.githubusercontent.com/57020653/209827117-690dd415-7db4-452d-8308-396a345c1b44.png)
+
+4° Desafio de criação de Personalizando Dashboard e Trocando as Preferências de Idioma
+
+![Dashboard](https://user-images.githubusercontent.com/57020653/210017514-ab9bac9d-2d39-47c9-8e68-71dd0b98f070.png)
