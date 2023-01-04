@@ -26,3 +26,8 @@
 
 ![Hellowcloud](https://user-images.githubusercontent.com/57020653/210019916-4b071d3b-6bfe-4040-91e7-dc01f6c485d5.png)
 
+6° Desafio: Criando Pipeline de CI/CD com Cloud Build e Terraform
+![imagem 1](https://user-images.githubusercontent.com/57020653/210556385-5037206e-feb7-4f30-ab98-700262c1d07c.png)
+
+![imagem 2](https://user-images.githubusercontent.com/57020653/210556409-df518ae9-8c72-4e73-8942-b6888c517e38.png)
+
